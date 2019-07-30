@@ -1,0 +1,17 @@
+land_use;area_km_2;frequency;cluster_area_km_2;percentage_land_use
+Sports and leisure facilities;0.5688;13;14.805;3.8419452887538
+Other roads and associated land;1.7689;13;14.805;11.9479905437352
+Fast transit roads and associated land;0.0775;13;14.805;0.523471800067545
+Discontinuous dense urban fabric (S.L. : 50% -  80%);1.6465;13;14.805;11.1212428233705
+Discontinuous medium density urban fabric (S.L. : 30% - 50%);0.2549;13;14.805;1.72171563660925
+Green urban areas;1.6975;13;14.805;11.4657210401891
+Water;0.001;13;14.805;0.006754474839581
+Railways and associated land;0.3276;13;14.805;2.21276595744681
+Land without current use;0.446;13;14.805;3.01249577845323
+Industrial, commercial, public, military and private units;4.5781;13;14.805;30.9226612630868
+Discontinuous low density urban fabric (S.L. : 10% - 30%);0.0146;13;14.805;0.098615332657886
+Arable land (annual crops);0.1485;13;14.805;1.00303951367781
+Mineral extraction and dump sites;0.072;13;14.805;0.486322188449848
+Construction sites;0.0427;13;14.805;0.288416075650118
+Continuous urban fabric (S.L. : > 80%);3.1464;13;14.805;21.2522796352584
+Pastures;0.0139;13;14.805;0.093887200270179
