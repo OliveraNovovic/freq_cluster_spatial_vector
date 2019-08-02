@@ -17,7 +17,7 @@ def attr_table(file, i):
             wfile.write(land_use + ';' + str(area) + ';' + str(cluster_freq) + '\n')
             print(land_use, cluster_freq, area)
     wfile.close()
-    
+
 
 def attr_table2(file, i):
     out_file = "cluster_" + str(i) + "_poi_category_freq.csv"
@@ -34,6 +34,7 @@ def attr_table2(file, i):
 
 
 def main():
+    '''
     path = "/home/olivera/Documents/QGIS-graph-cores/Dissolved/"
     path2 = "/home/olivera/Documents/QGIS-graph-cores/Intersection/"
     for i in range(1, 12):
@@ -42,7 +43,16 @@ def main():
         file = path2 + name2
         print(file)
         #attr_table(file, i)
-        attr_table2(file, i)
+        #attr_table2(file, i)
+
+    '''
+
+
+
+    path3 = "/home/olivera/Documents/QGIS-graph-cores/Intersection/"
+    name3 = "Milan_City_urban_POI.geojson"
+    file3 = path3 + name3
+    attr_table2(file3, 111) #111 means urban
 
 
 if __name__ == '__main__':
